@@ -1,0 +1,37 @@
+html{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-dark{
+    background-color: #75767B;
+
+}
+
+.mt-50{
+    margin-top: 5.0rem;
+}
+
+.col-10.form-group {
+    margin-top: 1rem;
+    text-align: center;
+    align-items: center;
+}
+
+/* .span-vertical{
+    margin-top: 3rem;
+} */
+
+label {
+    text-align: center;
+    margin-left: 11rem;
+}
+.selectpicker.form-control {
+    margin-left: 6rem;
+}
+
+.btn.btn-primary.form-control {
+    margin-left: 8rem;
+    width: 12rem;
+}
